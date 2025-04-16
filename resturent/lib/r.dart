@@ -1,0 +1,6 @@
+class AssetImages {
+}
+
+class AssetIcons {
+}
+
